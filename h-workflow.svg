@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 116" width="900" height="116" role="img" aria-label="AI / ML Workflow"><title>AI / ML Workflow</title><style>
+text{font-family:Inter, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace}
+.f{animation:fade .9s ease backwards}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.flow{stroke-dasharray:6 8;animation:dash 1.4s linear infinite}
+.draw{stroke-dasharray:var(--l);animation:draw 1.2s ease backwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}}
+@keyframes pulse{50%{opacity:.3}}
+@keyframes dash{to{stroke-dashoffset:-14}}
+@keyframes draw{from{stroke-dashoffset:var(--l)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect width="900" height="116" rx="18" fill="#181818"/><text class="m f" x="450" y="34" font-size="13" letter-spacing="4" fill="#F59E0B" text-anchor="middle">02</text><text class="f" style="animation-delay:0.10s" x="450" y="74" font-size="30" font-weight="700" fill="#FFF4DC" text-anchor="middle">AI / ML Workflow</text><path class="draw" style="--l:60" d="M420 94H480" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/></svg>

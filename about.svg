@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230" role="img" aria-label="About: B.Sc. IT student, 3 years of AI/ML learning"><title>About: B.Sc. IT student, 3 years of AI/ML learning</title><style>
+text{font-family:Inter, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace}
+.f{animation:fade .9s ease backwards}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.flow{stroke-dasharray:6 8;animation:dash 1.4s linear infinite}
+.draw{stroke-dasharray:var(--l);animation:draw 1.2s ease backwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}}
+@keyframes pulse{50%{opacity:.3}}
+@keyframes dash{to{stroke-dashoffset:-14}}
+@keyframes draw{from{stroke-dashoffset:var(--l)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect width="900" height="230" rx="18" fill="#181818"/><rect x="0" y="0" width="900" height="4" rx="2" fill="#F59E0B" opacity=".0"/><text class="f" style="animation-delay:0.10s" x="450" y="62" font-size="19" fill="#FFF4DC" text-anchor="middle">I'm a B.Sc. IT student (Semester 5) with around 3 years of hands-on AI/ML learning.</text><text class="f" style="animation-delay:0.30s" x="450" y="96" font-size="19" fill="#FFF4DC" text-anchor="middle">I enjoy turning raw data into models, and models into small, working apps.</text><g class="f" style="animation-delay:0.60s"><rect x="43" y="150" width="203" height="30" rx="15" fill="#222222" stroke="#F59E0B" stroke-opacity=".6"/><text x="144" y="169.5" font-size="13" fill="#FFF4DC" text-anchor="middle">Artificial Intelligence</text></g><g class="f" style="animation-delay:0.67s"><rect x="256" y="150" width="150" height="30" rx="15" fill="#222222" stroke="#F59E0B" stroke-opacity=".6"/><text x="331" y="169.5" font-size="13" fill="#FFF4DC" text-anchor="middle">Machine Learning</text></g><g class="f" style="animation-delay:0.74s"><rect x="416" y="150" width="128" height="30" rx="15" fill="#222222" stroke="#F59E0B" stroke-opacity=".6"/><text x="480" y="169.5" font-size="13" fill="#FFF4DC" text-anchor="middle">Deep Learning</text></g><g class="f" style="animation-delay:0.81s"><rect x="554" y="150" width="128" height="30" rx="15" fill="#222222" stroke="#F59E0B" stroke-opacity=".6"/><text x="618" y="169.5" font-size="13" fill="#FFF4DC" text-anchor="middle">Data Analysis</text></g><g class="f" style="animation-delay:0.88s"><rect x="692" y="150" width="165" height="30" rx="15" fill="#222222" stroke="#F59E0B" stroke-opacity=".6"/><text x="774" y="169.5" font-size="13" fill="#FFF4DC" text-anchor="middle">Python Development</text></g></svg>

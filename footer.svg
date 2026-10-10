@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Learn, Build, Experiment, Improve"><title>Learn, Build, Experiment, Improve</title><style>
+text{font-family:Inter, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace}
+.f{animation:fade .9s ease backwards}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.flow{stroke-dasharray:6 8;animation:dash 1.4s linear infinite}
+.draw{stroke-dasharray:var(--l);animation:draw 1.2s ease backwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}}
+@keyframes pulse{50%{opacity:.3}}
+@keyframes dash{to{stroke-dashoffset:-14}}
+@keyframes draw{from{stroke-dashoffset:var(--l)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect width="900" height="200" rx="18" fill="#181818"/><rect x="0" y="196" width="900" height="4" rx="2" fill="#F59E0B"/><text class="m f" x="450" y="56" font-size="12" letter-spacing="5" fill="#F59E0B" text-anchor="middle">KEEP SHIPPING</text><text class="f" style="animation-delay:0.30s" x="110" y="116" font-size="32" font-weight="800" fill="#FFF4DC" text-anchor="middle">Learn</text><circle class="pulse" style="animation-delay:0.0s" cx="198" cy="104" r="4" fill="#F59E0B"/><text class="f" style="animation-delay:0.65s" x="286" y="116" font-size="32" font-weight="800" fill="#FFF4DC" text-anchor="middle">Build</text><circle class="pulse" style="animation-delay:0.4s" cx="374" cy="104" r="4" fill="#F59E0B"/><text class="f" style="animation-delay:1.00s" x="518" y="116" font-size="32" font-weight="800" fill="#FFF4DC" text-anchor="middle">Experiment</text><circle class="pulse" style="animation-delay:0.8s" cx="664" cy="104" r="4" fill="#F59E0B"/><text class="f" style="animation-delay:1.35s" x="771" y="116" font-size="32" font-weight="800" fill="#FFF4DC" text-anchor="middle">Improve</text><text class="f" style="animation-delay:1.80s" x="450" y="156" font-size="14" fill="#B8B8B8" text-anchor="middle">Kanzariya Kiran &#183; AI / ML Developer</text></svg>
