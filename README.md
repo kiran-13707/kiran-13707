@@ -127,7 +127,7 @@
 </div>
 
 <p align="center">
-  <sub>•Python PHP • MySQL • HTML • CSS • JavaScript</sub>
+  <sub>• Python • PHP • MySQL • HTML • CSS • JavaScript</sub>
 </p>
 
 <br>
