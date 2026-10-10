@@ -127,12 +127,6 @@
 </div>
 
 <p align="center">
-  <b>Featured Project:</b>
-  Tour Travel Agency —
-  Full-stack travel booking application with user and admin functionality.
-</p>
-
-<p align="center">
   <sub>PHP • MySQL • HTML • CSS • JavaScript</sub>
 </p>
 
